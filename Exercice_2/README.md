@@ -25,9 +25,13 @@ Vous disposez du code HTML et CSS . Travaillez la façon dont sont affichés les
 
 # Étape 4
 
+- Ajouter "Titre : " avant le titre h1 avec ::before;
+
+# Étape 5
+
 - Ajouter ‘bird.jpg’, fourni dans le dossier, en image de fond au body.
 - Utiliser la propriété background-size pour que l’image de fond remplisse toute la page
 
-# Étape 5
+# Étape 6
 
 - Ajouter un keyframes avec un changement de couleur de l’arrière plan à la class ‘dernier’ (Après avoir créé votre @keyframe, n'oubliez pas de déclarer l'animation à l'endroit souhaité.)
